@@ -56,6 +56,7 @@ nav {
 }
 
 nav .main_container .menu {
+  list-style: none;
   position:relative;
   padding: 17px 40px;
   font-size: 15px;
